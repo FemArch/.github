@@ -1,3 +1,3 @@
 ## FemArch - arch linux for femboys
 
-![femarchlogo](logo.png)
+![femarchlogo](profile/logo.png)
